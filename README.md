@@ -1,4 +1,4 @@
 vegan-chk
 =========
 
-App to check if a cuisine is vegan or not by scanning using cell phone camera
+App to check if a food item is vegan or not by scanning using cell phone camera
